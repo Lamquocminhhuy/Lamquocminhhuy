@@ -1,21 +1,25 @@
-# Hi there. Welcome to my Github ✌️✌️✌️✌️
+<h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-<!--
-**Lamquocminhhuy/Lamquocminhhuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :smiley_cat: I am a student at Can Tho University
 
-Here are some ideas to get you started:
-![Github stats](https://github-readme-stats.vercel.app/api?username=Lamquocminhhuy&show_icons=true&locale=en)
-
-![language stats](https://github-readme-stats.vercel.app/api/top-langs?username=Lamquocminhhuy&show_icons=true&locale=en&layout=compact)
+### so, curently this is my first try making my readme, hope you like it 😄
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## By the way here are some of my statistics 🚀
+![Lamquocminhhuy's github stats](https://github-readme-stats.vercel.app/api?username=Lamquocminhhuy&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lamquocminhhuy&theme=tokyonight" alt="mystreak"/>
+![Lamquocminhhuy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lamquocminhhuy&theme=tokyonight&layout=compact)
+
+🌱 I’m currently learning DevNet.
+
+
+## Contact me : 
+📫 [![Gmail Badge](https://img.shields.io/badge/-lamquocminhhuy@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:lamquocminhhuy@gmail.com)](lamquocminhhuy@gmail.com)
+
+
+
+
+<h6 align="center">Made with ❤️ by Me (probably)</h6>
+
+
