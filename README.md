@@ -1,8 +1,9 @@
 <h1 align="center">Hello There</h1>
 
-### :smiley_cat: I am a student at Can Tho University
+### :smiley_cat: I am a student at Can Tho University.
 
-### so, curently this is my first try making my readme, hope you like it 😄
+### I'm currently learning NodeJs.
+### 💬 Ask me about Django, NodeJS.
 
 
 
