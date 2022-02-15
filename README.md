@@ -8,8 +8,8 @@
 
 
 ## By the way here are some of my statistics 🚀
-![Lamquocminhhuy's github stats](https://github-readme-stats.vercel.app/api?username=Lamquocminhhuy&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lamquocminhhuy&theme=tokyonight" alt="mystreak"/>
+
+
 ![Lamquocminhhuy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lamquocminhhuy&theme=tokyonight&layout=compact)
 
 
