@@ -3,15 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lamquocminhhuy&label=Profile%20views&color=0e75b6&style=flat" alt="lamquocminhhuy" /> </p>
 
-- 🌱 I’m currently learning **NodeJS**
-
-- 👯 I’m looking to collaborate on **other content creators**
-
 - 💬 Ask me about **NodeJS**
 
 - 📫 How to reach me **lamquocminhhuy@gmail.com**
 
-- ⚡ Fun fact **I love to sing and listen music. I also like football**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
